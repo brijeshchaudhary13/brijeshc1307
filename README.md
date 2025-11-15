@@ -20,8 +20,8 @@
 </p>
 
 <br>
- 💻 Portfolio: <a href="https://brijeshc1307.github.io/brijesh-portfolio/" >Click here</a>
-<img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/brij.png" /> 
+ 💻 Portfolio: <a href="https://brijeshchaudhary13.github.io/brijesh-portfolio/" >Click here</a>
+<img align="right" height="270px" alt="Image" src="https://github.com/brijeshchaudhary13/brijeshchaudhary13/blob/main/brij.png" /> 
 
 ### I am Assistant System Engineer at TCS
 - 💻 I'm also Software Developer :wink:
