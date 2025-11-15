@@ -8,6 +8,11 @@
  <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshchaudhary13/brijeshchaudhary13/blob/main/Banner.png" />
 
 <br>
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/brijeshchaudhary13/count.svg)
+
+</div>
 
 
 <a href="https://www.linkedin.com/in/brijeshchaudhary13/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
