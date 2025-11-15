@@ -20,7 +20,7 @@
 </p>
 
 <br>
- 💻 Portfolio: <a href="https://brijeshc1307.github.io/bportfolio/" >Click here</a>
+ 💻 Portfolio: <a href="https://brijeshc1307.github.io/brijesh-portfolio/" >Click here</a>
 <img align="right" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/brij.png" /> 
 
 ### I am Assistant System Engineer at TCS
@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on a project :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: Let's get in touch! <a href="https://www.linkedin.com/in/brijesh-chaudhary-2b8449171">Linkedin</a> :point_up:
+- 📬 How to reach me: Let's get in touch! <a href="https://www.linkedin.com/in/brijeshchaudhary13/">Linkedin</a> :point_up:
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
