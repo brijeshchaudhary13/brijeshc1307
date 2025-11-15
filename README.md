@@ -6,11 +6,7 @@
 <meta name="robots" content="index, follow">
 
  <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshchaudhary13/brijeshchaudhary13/blob/main/Banner.png" />
- <div align="center">
- 
- ![Visitor Count](https://profile-counter.glitch.me/{brijeshchaudhary13}/count.svg)
- 
- </div>
+
 <br>
 
 
