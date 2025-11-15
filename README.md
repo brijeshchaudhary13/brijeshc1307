@@ -5,10 +5,10 @@
 <meta name="author" content="Brijesh Chaudhary">
 <meta name="robots" content="index, follow">
 
- <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshc1307/brijeshc1307/blob/main/Banner.png" />
+ <img align="center" width="100%" height="270px" alt="Image" src="https://github.com/brijeshchaudhary13/brijeshchaudhary13/blob/main/Banner.png" />
  <div align="center">
  
- ![Visitor Count](https://profile-counter.glitch.me/{brijeshc1307}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{brijeshchaudhary13}/count.svg)
  
  </div>
 <br>
@@ -56,16 +56,16 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brijeshc1307&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=brijeshchaudhary13&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Brijesh's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshc1307&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Brijesh's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshchaudhary13&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Brijesh's Top Languages">
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>
 
 -----
-Credits: [brijeshc1307](https://github.com/brijeshc1307)
+Credits: [brijeshchaudhary13](https://github.com/brijeshchaudhary13)
 
 Last Edited on: 22/08/2021
 
