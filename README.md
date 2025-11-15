@@ -10,10 +10,12 @@
 <br>
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/brijeshchaudhary13/count.svg)
+<img 
+    src="https://komarev.com/ghpvc/?username=brijeshchaudhary13&label=Profile%20Views&color=4c8eda&style=for-the-badge" 
+    alt="Profile Views"
+/>
 
 </div>
-
 
 <a href="https://www.linkedin.com/in/brijeshchaudhary13/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 
