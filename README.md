@@ -26,7 +26,7 @@
  💻 Portfolio: <a href="https://brijeshchaudhary13.github.io/brijesh-portfolio/" >Click here</a>
 <img align="right" height="270px" alt="Image" src="https://github.com/brijeshchaudhary13/brijeshchaudhary13/blob/main/brij.png" /> 
 
-### I am Assistant System Engineer at TCS
+### I am Software Engineer at Panacea Medical Technologies also Former Software Engineer at Tata Consultancy Services
 - 💻 I'm also Software Developer :wink:
 - 🔭 I’m currently working on a project :wink:
 - 👯 I’m looking to collaborate with other Developers :wink:
